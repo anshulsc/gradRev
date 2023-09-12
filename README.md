@@ -2,7 +2,7 @@
 
 **gradrev** is a Python library that provides a simplified implementation of autograd to help understand the mechanics of backpropagation in PyTorch and demystify the inner workings of PyTorch's autograd.
 
-## Introduction
+## Summary
 
 Deep learning and neural networks have become essential tools in various fields, from computer vision to natural language processing. PyTorch is a popular deep learning framework that employs automatic differentiation, also known as autograd, to calculate gradients for backpropagation.
 
